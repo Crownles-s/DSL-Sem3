@@ -9,9 +9,6 @@ The repository documents my progression through the core concepts of data struct
 
 * Labs
 * Topics Covered
-* Repository Structure
-* Compilation & Execution
-* What I learned
 
 
 ## Labs
