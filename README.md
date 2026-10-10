@@ -2,7 +2,7 @@
 
 A collection of Data Structures Lab (DSL) programs implemented in C, covering fundamental data structures, algorithms, pointers, dynamic memory allocation, and problem-solving techniques.
 
-The repository documents my progression through the core concepts of data structures, from basic arrays and searching to linked lists, stacks, queues, and dynamic data structures.
+The repository documents my progression through the core concepts of data structures, from basic arrays and searching to linked lists, stacks, queues, trees, and dynamic data structures.
 
 
 ## Contents
@@ -18,10 +18,11 @@ Lab 1	Arrays, Searching, Sorting & Matrix Operations
 Lab 2	Pointers, Dynamic Memory & Recursion
 Lab 3	Strings & Structures
 Lab 4	Singly Linked Lists
+Lab 5   Doubly Linked Lists
+Lab 6   Circular Linked Lists
 Lab 7	Stacks & Expression Processing
 Lab 8	Queues & Priority Queues
-
-Labs 5 and 6 TBD.
+Lab 9   Binary Trees: Creation and Traversal
 
 
 ## Topics Covered
@@ -103,3 +104,8 @@ Labs 5 and 6 TBD.
 * Linked queues
 * Priority queues
 * Circular queues
+
+### Trees
+* Binary Tree creation
+* Binary Tree traversal (recursive and iterative)
+* Binary Tree operations
